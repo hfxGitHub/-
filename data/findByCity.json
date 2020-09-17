@@ -1,0 +1,131 @@
+{
+	"ret": "true",
+	"errcode": 0,
+	"errmsg": "",
+	"ver": 1,
+	"data": {
+		"enterpList": [
+			{
+				"enterpId": 615,
+				"enterpName": 1,
+				"enterpFullname": "中国重汽集团绵阳专用汽车有限公司",
+				"enterpCity": 0,
+				"enterpDomain": 12,
+				"enterpDomainName": "汽车制造",
+				"enterpContact": "颜家智",
+				"enterpPhone": "0816-7107068",
+				"enterpContactMail": "myzhglb@sinotruk.com",
+				"enterpNumbers": 0,
+				"enterpLng": 104.609187513,
+				"enterpLat": 31.492945562749
+			}, {
+				"enterpId": 616,
+				"enterpName": 2,
+				"enterpFullname": "中国宝安集团股份有限公司",
+				"enterpCity": 0,
+				"enterpDomain": 5,
+				"enterpDomainName": "计算机、通信设备制造",
+				"enterpContact": "嘉衡",
+				"enterpPhone": "0755-25170382",
+				"enterpContactMail": "mydccc@163.com",
+				"enterpNumbers": 0,
+				"EnglishName": "China Baoan Group Co.,Ltd",
+				"market": "深圳证券交易所",
+				"outDate": "1991-06-25",
+				"price": 3.00,
+				"buildDate": "1983-07-06",
+				"registeredCapital": "214934万元",
+				"companyPhoneNumber": "0755-25170382,0755-25170382",
+				"companyEmail": "zgbajt@163.net",
+				"companyWebSite": "http://www.chinabaoan.com",
+				"postalcode": "518020",
+				"bulletin": [
+					{
+						"time":"2018-01-27",
+						"title":"中国宝安：关于下属子公司重大诉讼的公告",
+						"link":"http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000009&id=4035426"
+					}, {
+						"time":"2018-01-27",
+						"title":"中国宝安：关于马应龙股份解除质押及再质押的公告",
+						"link":"http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000009&id=4035423"
+					},{
+						"time":"2018-01-20",
+						"title":"中国宝安：新世纪评级关于关注公司关于下属子公司收到儋州市人民政府无偿收回土地使用权决定事项的公告",
+						"link":"http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000009&id=4019884"
+					},{
+						"time":"2018-01-20",
+						"title":"中国宝安：关于控股子公司永力科技筹划重大事项停牌的提示性公告",
+						"link":"http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=000009&id=4019881"
+					}
+				],
+				"management":[{
+					"summary":"陈政立：男，1960年出生，管理工程硕士，民建中央副主席，全国政协常委，本集团创办人之一。历任宝安宾馆经理、本集团副总裁、总裁，本集团第三届、第四届、第五届董事局副主席，第六届、第七届、第八届、第九届、第十届、第十一届、第十二届董事局主席，历任第九届全国政协委员，第十届、第十一届、第十二届全国政协常委，中国民主建国会中央委员会第八届、第九届、第十届副主席，中华思源工程扶贫基金会副理事长，现任本集团第十三届董事局主席兼总裁，中国风险投资有限公司董事长。"
+				},{
+					"summary":"陈泰泉：男，1963年2月出生，管理工程研究生。民建广东省委常委、民建深圳市委副主委、深圳市人大常委。曾任新城友谊公司经理；宝安外轮商品供应公司总经理；中国宝安集团股份有限公司（以下简称“宝安集团”）总裁助理、副总裁；宝安集团第七届、第八届、第九届董事，第十、十一届董事局常务副主席兼执行总裁；2009年6月至今担任本公司董事长。"
+				},{
+					"summary":"陈平:男,1962年出生,博士,高级经济师。历任武汉市财政学校财会教研室副主任、讲师,武汉国际租赁公司总会计师、副总经理,武汉马应龙药业集团股份有限公司董事长,本集团副总会计师、总经济师、副总裁、营运总裁,本集团第七届至第十二届董事局董事。现任本集团第十三届董事局执行董事兼董事副总裁,马应龙药业集团股份有限公司董事长。"
+				}],
+				"paper":[{
+					"periodical":"《特区理论与实践》北大核心 2000年第2期",
+					"title":"镇级财政资金管理体制的一项重大改革",
+					"keyword":"镇级财政  资金管理体制  集中收付制  会计核算",
+					"writter":"查振祥"
+				},{
+					"periodical":"《特区经济》北大核心 1998年第9期",
+					"title":"论中资企业的海外上市",
+					"keyword":"中资企业  海外上市  境内资产  境外资产  上市地点",
+					"writter":"计长鹏"
+				},{
+					"periodical":"《经济界》1996年第6期",
+					"title":"中国宝安集团产业多元化战略研究",
+					"keyword":"多元化战略  产业多元化  资本经营  专业化  主导产业  事业部制  房地产业  产业经营  房地产开发  金融业",
+					"writter":"陈政立"
+				},{
+					"periodical":"《特区实践与理论》1999年第5期",
+					"title":"试析金融危机和金融风险产生的深层原因",
+					"keyword":"金融危机  商业银行  债务链  防范金融风险  商品房  开发商  风险产生  国家中介  货币资金  债务人",
+					"writter":"查振祥"
+				}],
+				"patent":[{
+					"img":"http://image.zldsj.com/H/PID/CNB0/2012/0104/00000000101639/0FCB1KB4I8012A4C/THB/THB.GIF",
+					"title":"一种海绵滚轴的制造工艺及其压入装置",
+					"abso":"本发明公开了一种海绵滚轴的制造工艺及其压入装置，装置包括机器支撑架、油泵马达、液压油箱、海绵滚轴压入机构和电控装置，其中，海绵滚轴压入机构包括分别安装在机器支撑架上部两端的压入液压油缸和回压液压油缸，各油缸装置相应的滚轴压入、压回杆组；还包括安装在机器支撑架上部中间的管件夹具；电控装置用于控制压入液压油缸和回压液压油缸的活塞杆来回动作。采用本发明的结构的设备可实现一次性将多根海绵滚轴自动压入多根管件的功能，提高生产效率，节约劳动力，而且有利于改善产品品质，降低不良率，节约成本。"
+				},{
+					"img":"http://image.zldsj.com/H/PID/CNA0/2010/0203/00000000101639/0FCD2D6O5M013469/THB/THB.GIF",
+					"title":"一种海绵滚轴的制造工艺及其压入装置",
+					"abso":"本发明公开了一种海绵滚轴的制造工艺及其压入装置，包括机器支撑架、油泵马达、液压油箱、海绵滚轴压入装置和电控装置，其中，海绵滚轴压入装置包括分别安装在机器支撑架上部两端的压入液压油缸和回压液压油缸，各油缸装置相应的滚轴压入、压回杆组；还包括安装在机器支撑架上部中间的管件夹具；电控装置用于控制压入液压油缸和回压液压油缸的活塞杆来回动作。采用本发明的结构的设备可实现一次性将多根海绵滚轴自动压入多根管件的功能，提高生产效率，节约劳动力，而且有利于改善产品品质，降低不良率，节约成本。"
+				}],
+				"companyAddress": "广东省深圳市笋岗东路1002号宝安广场A座28-29层",
+				"companySummary": "公司原名为宝安县联合投资公司,于1991年6月1日经深圳市人民政府深府办复(1991)418号文批准,改组为深圳市宝安企业(集团)股份有限公司。于1983年7月12日经国家工商行政管理局企业登记司(1993)企名函字147号文批准,更名为中国宝安集团股份有限公司。",
+				"enterpLng": 104.43728602798,
+				"enterpLat": 31.7807209995034
+			}, {
+				"enterpId": 620,
+				"enterpName": 6,
+				"enterpFullname": "四川九洲光电科技股份有限责任公司",
+				"enterpCity": 0,
+				"enterpDomain": 5,
+				"enterpDomainName": "计算机、通信设备制造",
+				"enterpContact": "谢拥军",
+				"enterpPhone": "0816-2471120",
+				"enterpContactMail": "jt.chen@scjz-led.com",
+				"enterpNumbers": 0,
+				"enterpLng": 104.705165042922,
+				"enterpLat": 31.4689171407421
+			}, {
+				"enterpId": 737,
+				"enterpName": 810370520,
+				"enterpFullname": "绵阳市万欣测控技术有限公司",
+				"enterpCity": 0,
+				"enterpDomain": 7,
+				"enterpDomainName": "科技推广和应用服务",
+				"enterpContact": "王运生",
+				"enterpPhone": "0816-6283258",
+				"enterpContactMail": "624204067@qq.com",
+				"enterpNumbers": 0,
+				"enterpLng": 104.77691793843,
+				"enterpLat": 31.5077474612009
+			}
+		]
+	}
+}
